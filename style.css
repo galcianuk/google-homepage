@@ -1,7 +1,6 @@
 
 
 ul.navigation{
-    /*list-style-type: none;*/
     padding-left: 15px;
     overflow: hidden;
     background-color: rgb(255, 255, 255);
@@ -68,10 +67,6 @@ li a.signin{
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
-}
-
-.search{
-  
 }
 
 .search form{
